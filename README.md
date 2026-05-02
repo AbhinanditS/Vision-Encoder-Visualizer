@@ -1,7 +1,7 @@
 
-  # 3D AI Image Pipeline Visualization
+  # ViT Visualizer
 
-  This is a code bundle for 3D AI Image Pipeline Visualization. The original project is available at https://www.figma.com/design/XMTVOsjX3sJYdpcg6ZVQv2/3D-AI-Image-Pipeline-Visualization.
+  This is a code bundle for Visual Encoder Pipeline Visualization.
 
   ## Running the code
 
